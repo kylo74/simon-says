@@ -1,0 +1,22 @@
+{
+  "name": "simon-says",
+  "version": "1.0.0",
+  "description": "- simon says game built with html, css, javascript and jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylo74/simon-says.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylo74/simon-says/issues"
+  },
+  "homepage": "https://github.com/kylo74/simon-says#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
